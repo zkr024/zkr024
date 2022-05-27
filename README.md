@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zkr024&label=Profile%20views&color=0e75b6&style=flat" alt="zkr024" /> </p>
 
-<p align="left"> <a href="https://twitter.com/zkr_bm" target="blank"><img src="https://img.shields.io/twitter/follow/zkr_bm?logo=twitter&style=for-the-badge" alt="zkr_bm" /></a> </p>
-
 - 🌱 I’m currently learning **React, Redux, Ruby and Ruby on Rails**
 
 - 📫 How to reach me **zkr.bm.02403@gmail.com**
