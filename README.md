@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React, Redux, Ruby and Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [https://github.com/zkr024](https://github.com/zkr024)
-
 - 📫 How to reach me **zkr.bm.02403@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
